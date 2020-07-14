@@ -1,6 +1,6 @@
 # `kong-dashboard`
 
-An image for `kong-dashboard`. Slightly more convenient than the official image because:
+An alternative image for `kong-dashboard`. Slightly more convenient than the official image because:
 
 * It includes the most excellent `wait-for-it.sh` script which will help in delaying start until Kong is up during orchestration.
 * It includes `bash`. This is required by `wait-for-it.sh`.
